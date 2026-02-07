@@ -2,7 +2,7 @@
 
 📌 Overview
 End-to-end sales analysis of a coffee shop using transactional data from 2023.
-The project covers data cleaning, exploratory analysis, KPI calculation, and business insights and is designed for a Junior Data Analyst portfolio.
+The project covers data cleaning, exploratory analysis, KPI calculation, and business insights
 
 🎯 Objectives
 Clean and prepare raw sales data
